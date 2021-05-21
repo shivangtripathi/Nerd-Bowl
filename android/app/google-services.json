@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770240274595",
+    "project_id": "nerd-bowl",
+    "storage_bucket": "nerd-bowl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770240274595:android:7691108184db5ddd805f16",
+        "android_client_info": {
+          "package_name": "com.nerdbowl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770240274595-9j7ub5uqh2eu9nubur04a8jgh2b52f9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CqqSegrTt0BP2d49PjmSUjNg57imbgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770240274595-9j7ub5uqh2eu9nubur04a8jgh2b52f9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
